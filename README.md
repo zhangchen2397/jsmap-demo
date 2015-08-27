@@ -1,3 +1,2 @@
-# jsmap-demo
 jsmap demo
 ====================
